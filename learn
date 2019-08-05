@@ -14,12 +14,4 @@ change something in the another git
 change something in the master
 
 change at 14:01
-
-
-1530 at issue1
-15:29 issue2
-<<<<<<< HEAD
-1611 anothergit
-=======
-1613 learngit
->>>>>>> learngit
+big change in learnt 1639
