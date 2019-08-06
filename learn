@@ -26,3 +26,6 @@ change at 13:57
 change at 13:58
 
 1029
+
+git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
